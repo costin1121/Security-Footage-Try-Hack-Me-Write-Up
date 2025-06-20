@@ -1,4 +1,4 @@
-# Security-Footage-Try-Hack-Me-Write-Up
+# Security Footage Try Hack Me Write-Up
 1. We open the .pcap file using Wireshark.
 2. Since it involves video cameras and we observe the GET request, we conclude that it is about video images.
 
